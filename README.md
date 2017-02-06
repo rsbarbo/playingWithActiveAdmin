@@ -1,24 +1,14 @@
-# README
+# Playing with ActiveAdmin Devise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+WIP :construction_worker:
 
-Things you may want to cover:
+  This application has been created to explore some of the nuances of ActiveAdmin
+  with Devise. There is nothing special about this app other than being a source
+  of exploration and learning. :heart:
 
-* Ruby version
 
-* System dependencies
+Thanks for stopping by and checking it out, promise you more interesting things to
+come during spare time. :thumbsup: :fire: :collision:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Cheers :alien:
+### Raphael Barbo
